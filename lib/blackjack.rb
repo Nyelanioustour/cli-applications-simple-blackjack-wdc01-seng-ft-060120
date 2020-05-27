@@ -7,8 +7,8 @@ def deal_card
   card
 end
 
-def display_card_total(cardval)
-  p cardval
+def display_card_total(card)
+  puts card
 end
 
 def prompt_user
