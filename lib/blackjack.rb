@@ -37,8 +37,9 @@ end
 def hit?(card_total)
   prompt_user
   input = get_user_input
-  case input
    binding.pry
+  case input
+  
   when "h"
     card_total += deal_card
     return card_total
