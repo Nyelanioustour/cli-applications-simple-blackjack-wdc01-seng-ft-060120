@@ -37,7 +37,7 @@ end
 def hit?(card_total)
   prompt_user
   input = get_user_input
-   binding.pry
+   
   case input
   
   when "h"
@@ -49,7 +49,7 @@ def hit?(card_total)
        
         invalid_command
   end
-     binding.pry
+    
 end
 
 def invalid_command
