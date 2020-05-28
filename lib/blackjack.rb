@@ -43,8 +43,7 @@ def hit?(card_total)
     card_total += deal_card
   when others
     invalid_command
-  end
-end
+ 
 end
   
     
