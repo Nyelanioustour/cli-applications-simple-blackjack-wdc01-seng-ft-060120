@@ -38,6 +38,11 @@ def hit?(card_total)
   prompt_user
   input = get_user_input
   case input
+  when "h"
+    
+    when "s"
+      
+      when 
   
     
 end
