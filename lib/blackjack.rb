@@ -58,6 +58,7 @@ end
 def runner
   welcome
   hand = initial_round
+  until hand>21
   hit? 
   
   
