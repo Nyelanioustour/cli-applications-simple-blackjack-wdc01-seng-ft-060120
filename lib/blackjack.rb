@@ -45,7 +45,7 @@ def hit?(card_total)
       return card_total
       when others 
         invalid_command
-  
+  end
     
 end
 
