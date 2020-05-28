@@ -61,6 +61,7 @@ def runner
   until hand>21
   hit? 
   display_card_total
+end
   
 end
     
