@@ -1,5 +1,5 @@
 require 'pry'
-card_total = 0 
+
 
 def welcome
   puts "Welcome to the Blackjack Table"
@@ -35,6 +35,7 @@ def initial_round
 end
 
 def hit?
+  
   # code hit? here
 end
 
