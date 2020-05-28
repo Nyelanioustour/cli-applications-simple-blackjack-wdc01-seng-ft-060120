@@ -52,6 +52,7 @@ def hit?(card_total)
     prompt_user
     
  end
+ binding.pry 
 end
   
     
