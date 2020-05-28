@@ -43,9 +43,10 @@ def hit?(card_total)
   input = get_user_input
   case input
   when "s"
-    card_total
+    return card_total
   when "h"
     card_total += deal_card
+    return card_total
   else
     invalid_command
     
