@@ -53,7 +53,7 @@ def hit?(card_total)
     get_user_input
     
  end
- 
+ return card_total
 end
   
     
