@@ -43,6 +43,7 @@ def hit?(card_total)
     when "s"
       
       when others 
+        invalid_command
   
     
 end
