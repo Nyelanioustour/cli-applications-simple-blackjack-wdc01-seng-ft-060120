@@ -26,7 +26,8 @@ end
 
 def initial_round
   sum = deal_card + deal_card
-  binding.pry 
+  sum
+   
   display_card_total(sum)
   # code #initial_round here
 end
