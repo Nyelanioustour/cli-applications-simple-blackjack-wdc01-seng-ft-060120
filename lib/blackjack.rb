@@ -42,7 +42,7 @@ def hit?(card_total)
     
     when "s"
       
-      when 
+      when others 
   
     
 end
