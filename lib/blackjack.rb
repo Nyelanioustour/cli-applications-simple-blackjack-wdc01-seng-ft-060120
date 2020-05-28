@@ -64,14 +64,7 @@ end
 # get every test to pass before coding runner below #
 #####################################################
 
-def runner
-  welcome
-  hand = initial_round
-  until hand>21
-  hit? 
-  display_card_total
-end
-end_game
+
   
 end
     
