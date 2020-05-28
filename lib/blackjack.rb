@@ -29,7 +29,8 @@ def initial_round
   return card_total
    
   display_card_total(card_total)
-  # code #initial_round here
+  
+  
 end
 
 def hit?
